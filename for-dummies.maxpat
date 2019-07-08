@@ -40,12 +40,12 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-6",
-					"linecount" : 3,
+					"linecount" : 4,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 139.3333420753479, 116.0, 187.0, 47.0 ],
-					"text" : "Seems you have to keep the Electron window running PoseNet on top to get values."
+					"patching_rect" : [ 170.166684150695801, 115.0, 153.0, 60.0 ],
+					"text" : "Always keep the Electron window running PoseNet on top to get updated values."
 				}
 
 			}
@@ -675,7 +675,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 833.0, 79.0, 378.0, 682.0 ],
+						"rect" : [ 425.0, 84.0, 821.0, 682.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -4559,6 +4559,8 @@
 									"saved_object_attributes" : 									{
 										"autostart" : 0,
 										"defer" : 0,
+										"node_bin_path" : "",
+										"npm_bin_path" : "",
 										"watch" : 0
 									}
 ,
@@ -4671,6 +4673,8 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 0
 					}
 ,
